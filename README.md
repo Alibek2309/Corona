@@ -1,2 +1,1 @@
-# Corona
-App
+Coronavirus app
